@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The_Dashboard
 
 This project is a simple web app which has threads which are similar to posts which are made by users and can be commented on.
@@ -39,3 +40,7 @@ configure database open config/database.php and change the database credentials
 
 DONE..
  
+=======
+# The_Dashboard-2
+project
+>>>>>>> eac8d8cc695ecca2c4c3bc32bd788c0eb998cb03
